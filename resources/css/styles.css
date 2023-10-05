@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Covered By Your Grace', sans-serif;
+}
+
+.green {
+    background-color: #8FBC8F;
+  }
+
+  h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: .2em;
+  }
+
+  h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: .2em;
+    font-weight: 300;
+  }
